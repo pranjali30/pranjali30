@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @pranjali30
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Digital Marketing
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pranjalimishra30@gmail.com
 
 <!---
